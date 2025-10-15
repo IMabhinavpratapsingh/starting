@@ -1,0 +1,13 @@
+print("im billionare")
+
+>> git remolte add origin https://github.com/IMabhinavpratapsingh/starting.git
+
+
+git pull origin main
+git status 
+
+git add .
+git status
+
+git commit -m "commit message
+git push
